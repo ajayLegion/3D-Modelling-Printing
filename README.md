@@ -38,6 +38,6 @@ This training has equipped me with practical skills in:
 ## 📜 Certification
 
 ## Certificate of Completion 
-![3D modelling certificate] (3D modelling certificate.jpg)
+![3D modelling certificate] (3Dmodellingcertificate.jpg)
 
 
