@@ -23,9 +23,8 @@ I am excited to share that I have successfully completed training in **3D Modell
 
 - Key Bench
 - Legion logo
-- 🏠 Miniature Architecture Model
-- 📱 Phone Stand: Ergonomic Design for Desk Use
-
+  ![legionlogo](legionlogo.jpg)
+  
 ## 🏁 Outcome
 
 This training has equipped me with practical skills in:
